@@ -1,3 +1,6 @@
+1.11.0
+- Force update after libplatform dependency update
+
 1.10.5
 - Updated Language files from Transifex
 
