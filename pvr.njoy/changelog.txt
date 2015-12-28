@@ -1,3 +1,6 @@
+1.11.8
+- kodi.guilib is mandatory, enforce it
+
 1.11.7
 - Updated Language files from Transifex
 
