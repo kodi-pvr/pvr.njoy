@@ -1,3 +1,7 @@
+v19.0.1
+- Translations updates from Weblate
+	- ar_sa, az_az, bs_ba, da_dk, eo, eu_es, fa_af, fa_ir, fo_fo, hi_in, hy_am, mi, mk_mk, ml_in, mn_mn, si_lk, sq_al, te_in, uz_uz
+
 v19.0.0
 - Translations updates from Weblate
   - To allow also addon.xml content update by Weblate
