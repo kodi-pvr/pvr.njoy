@@ -1,3 +1,7 @@
+v20.2.1
+- Translations updates from Weblate
+	- ar_sa, az_az, bs_ba, da_dk, eo, eu_es, fa_af, fa_ir, fo_fo, hi_in, hy_am, mi, mk_mk, ml_in, mn_mn, si_lk, sq_al, te_in, uz_uz
+
 v20.2.0
 - Translation updates by Weblate
 - Kodi main API update to version 2.0.0
